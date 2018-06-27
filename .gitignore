@@ -1,0 +1,9 @@
+#JAVA Build
+target
+build
+out
+.gradle
+
+.DS_Store
+.idea
+*.iml
